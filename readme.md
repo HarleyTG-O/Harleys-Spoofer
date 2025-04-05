@@ -19,4 +19,4 @@ To install **Harley’s Spoofer**, follow these steps:
 
 1. **Clone or Download the Repository:**
    ```bash
-   git clone https://github.com/Harleys-Spoofer/HarleySpoofer.exe
+   git clone https://github.com/HarleyTG-O/Harleys-Spoofer
