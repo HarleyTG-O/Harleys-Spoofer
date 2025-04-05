@@ -17,4 +17,4 @@ Harley's Spoofer is a tool designed to modify various hardware identifiers on yo
 
 1. **Clone or Download the Repository:**
    ```bash
-   git clone https://github.com/Harleys-Spoofer/Harleys-Spoofer.git
+   git clone https://github.com/Harleys-Spoofer/HarleysSpoofer.exe
