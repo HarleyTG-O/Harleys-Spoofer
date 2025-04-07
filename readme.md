@@ -1,5 +1,7 @@
 # Harley’s Spoofer
 
+v1.9 End of Updates
+
 Harley’s Spoofer is a powerful tool designed to alter key hardware identifiers on your system, enhancing privacy and helping you bypass hardware-based restrictions. By modifying identifiers like disk information, MAC addresses, and GUIDs, it makes your system less identifiable to software and services that track hardware configurations, helping you maintain your privacy online.
 
 **Disclaimer:** Please refer to the official documentation for important usage information.
